@@ -2,4 +2,4 @@
 
 *Paper currently under review*
 
-* Upon acceptance, we will be releasing all datasets used in our experiments (the LR-HR pairs), as well as the source code, in order to encourage further research and development in the field of super-resolution for License Plate Recognition (LPR).
+* Upon acceptance, we will be releasing all datasets used in our experiments (the LR-HR image pairs), as well as the source code, in order to encourage further research and development in the field of super-resolution for License Plate Recognition (LPR).
