@@ -2,7 +2,7 @@
 
 Our paper has been accepted for publication in *Computer & Graphics*.
 
-We will be adding the code and datasets we used in our research in the next few weeks.
+In the next few weeks, we will be adding the code and datasets we used in our research.
 So stay tuned for that!
 
 # Citation
