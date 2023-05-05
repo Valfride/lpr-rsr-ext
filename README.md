@@ -9,7 +9,7 @@ So stay tuned for that!
 
 If this repository has been helpful in any way for your research, please cite our work:
 
-* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, "Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers," Computers & Graphics, pp. 1-9, 2023. In press.
+* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, "*Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers*," Computers & Graphics, pp. 1-9, 2023. In press.
 
 ```
 @article{nascimento2023super,
