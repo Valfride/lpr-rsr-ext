@@ -32,7 +32,7 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
 
 Before using the code provided, not that the image size must be changed for the input LR and output SR/HR to the desired shape on the __dataset.py__ file after the imports in each model folder.
 
-```
+```python
 IMG_LR = (40, 20)
 IMG_HR = (160, 80)
 ```
