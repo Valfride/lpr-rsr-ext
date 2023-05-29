@@ -1,7 +1,7 @@
 # Rodosol-LR-HR Dataset
 
 <p align="justify">
-This dataset contains 20,000 license plate (LP) images created from [RodoSol-ALPR](https://github.com/raysonlaroca/rodosol-alpr-dataset) dataset, which comprises 10,000 images of different cars models, captured during the day and ninght, from distinct pay tolls, on clear and rainy day.
+This dataset contains 20,000 license plate (LP) images created from  [RodoSol-ALPR]([url](https://github.com/raysonlaroca/rodosol-alpr-dataset) dataset, which comprises 10,000 images of different cars models, captured during the day and ninght, from distinct pay tolls, on clear and rainy day.
 </p>
 
 <p align="justify">
