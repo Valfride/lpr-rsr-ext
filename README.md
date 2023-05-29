@@ -32,13 +32,13 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
 
 - \_\_dataset\_\_.py
 
-Before using the code provided, not that the image size must be changed for the input LR and output SR/HR to the desired shape on the __dataset.py__ file after the imports in each model folder.
+  Before using the code provided, not that the image size must be changed for the input LR and output SR/HR to the desired shape on the __dataset.py__ file after the imports in each model folder.
 
 ```python
 IMG_LR = (40, 20)
 IMG_HR = (160, 80)
 ```
-Also, in the class customDataset the parameter self.aspect_ratio must reflect the desired aspect ration. In our work for the PKU and RodoSol dataset we used the values 3.0 and 2.0 respectively:
+  Also, in the class customDataset the parameter self.aspect_ratio must reflect the desired aspect ration. In our work for the PKU and RodoSol dataset we used the values 3.0 and 2.0 respectively:
  
 ```python
 # RosoSol-LR-HR
@@ -50,8 +50,8 @@ def __init__(self, x_tensor, augmentation = True):
     self.aspect_ratio = 3.0
 ```
 
-- training.py and testing.py
- In each training.py and testing.py we must define the path of the OCR to be used throught the path_ocr:
+- __training.py__ and __testing.py__
+ - In each training.py and testing.py we must define the path of the OCR to be used throught the path_ocr:
  
  ```python
  path_ocr = Path('2023-02-02-exp-016-br-paper-valfride-cg-ocr-goncalves2018realtime-original-120-60-adam-batch64-pat7')
