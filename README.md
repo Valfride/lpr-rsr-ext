@@ -65,4 +65,35 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
     # PKU-LR-HR
     path_ocr = Path('2023-02-06-exp-019-cn-paper-valfride-cg-ocr-goncalves2018realtime-original-120-40-adam-batch64-pat7')
     ```
+    
+# Citation
+
+If you use our code or datasets in your research, please cite:
+
+* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers,” in *Computers & Graphics*, vol. 113, pp. 69-76, 2023. [[Science Direct]]([https://doi.org/10.1109/SIBGRAPI55357.2022.9991753](https://doi.org/10.1016/j.cag.2023.05.005)) arXiv (soon)
+
+```
+@article{nascimento2023super,
+  title = {Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers},
+  author = {V. {Nascimento} and R. {Laroca} and J. A. {Lambert} and W. R. {Schwartz} and D. {Menotti}},
+  year = {2023},
+  journal = {Computers \& Graphics},
+  volume = {113},
+  number = {},
+  pages = {69-76},
+  doi = {10.1016/j.cag.2023.05.005},
+  issn = {0097-8493},
+  keywords = {License plate recognition, Super-resolution, Attention modules, Sub-pixel convolution layers}
+}
+```
+
+Additionally, consider showing your support by starring (:star:) this repository.
+
+## Related publications
+
+A list of all our papers on ALPR can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2018&q=allintitle%3A+plate+OR+license+OR+vehicle+author%3A%22David+Menotti%22&btnG=).
+
+## Contact
+
+Please contact Valfride Nascimento ([vwnascimento@inf.ufpr.br](mailto:vwnascimento@inf.ufpr.br)) with questions or comments.
 
