@@ -15,5 +15,5 @@ The \gls*{hr} images used in our experiments were generated as follows. For each
 
 We generated LR versions of each HR image by simulating the effects of an optical system with lower resolution. This was achieved by iteratively applying random Gaussian noise to each HR image until we reached the desired degradation level for a given LR image (i.e., SSIM<0.1). To maintain the aspect ratio of the LR and HR images, we padded them before resizing.
 
-<img src="./media/image2.png" width="600"/>  
-<img src="./media/image.png" width="600"/>  
+<img src="./Media/image2.png" width="600"/>  
+<img src="./Media/image.png" width="600"/>  
