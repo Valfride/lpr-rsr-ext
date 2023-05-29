@@ -6,7 +6,7 @@ This dataset contains 20,000 license plate (LP) images created from  [RodoSol-AL
 Among the 10,000 original images, there are 5,000 images of mercorsur and brazilian LP layouts. While all Brazilian LPs consist of three letters followed by four digits, the initial pattern adopted in Brazil for Mercosur LPs consists of three letters, one digit, one letter and two digits, in that order (this is the pattern adopted on all Mercosur LPs in that dataset). In both layouts, car LPs have seven characters arranged in one row.
 
 <p align="center">
-<img src="./Media/RodoSol_dataset.png" width="600"/ alt>
+<img src="./Media/RodoSol_dataset.png" width="600" alt>
 <em>image_caption</em>
 </p>
 
