@@ -56,7 +56,7 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
     ```
 - __training.py__ and __testing.py__
 
-    In each training.py and testing.py we must define the path of the OCR to be used throught the path_ocr:
+    In each training.py and testing.py files we must define the path of the OCR to be used throught the path_ocr:
  
     ```python
     # RosoSol-LR-HR
