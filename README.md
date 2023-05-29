@@ -9,7 +9,7 @@ Among the 10,000 original images, there are 5,000 images of mercorsur and brazil
 <img src="./Media/RodoSol_dataset.png" width="600"/>
 </p>
 <p align="center">
-<figcaption> Somo samples here </figcaption>
+Some samples here
 </p>
 
 
