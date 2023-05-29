@@ -5,7 +5,7 @@ This dataset contains 20,000 license plate (LP) images created from [RodoSol-ALP
 Among the 10,000 original images, there are 5,000 images of mercorsur and brazilian LP layouts. While all Brazilian LPs consist of three letters followed by four digits, the initial pattern adopted in Brazil for Mercosur LPs consists of three letters, one digit, one letter and two digits, in that order (this is the pattern adopted on all Mercosur LPs in that dataset). In both layouts, car LPs have seven characters arranged in one row.
 
 <p align="center">
-<img src="./Media/image2.png" width="600"/>
+<img src="./Media/RodoSol_dataset.png" width="600"/>
 </p>
 
 # PKU-LR-HR Dataset
@@ -14,7 +14,7 @@ The PKU-LR-HR dataset comprises images categorized into five distinct groups, na
 All images were collected in mainland China. Despite the diverse settings, the \gls*{lp} images have good quality and are perfectly legible.
 
 <p align="center">
-<img src="./Media/image2.png" width="600"/>
+<img src="./Media/PKU_dataset.png" width="600"/>
 </p>
 
 # LR-HR generation
