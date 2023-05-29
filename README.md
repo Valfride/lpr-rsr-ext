@@ -25,6 +25,6 @@ Some HR-LR image pairs created from the RodoSol-ALPR dataset.
 <img src="./Media/image2.png" width="600"/>
 
 
-Examples of HR-LR image pairs created from the PKU dataset.
+And some examples of HR-LR image pairs created from the PKU dataset.
 <img src="./Media/image.png" width="600"/>
 
