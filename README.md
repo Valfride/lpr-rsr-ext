@@ -50,7 +50,7 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
     self.aspect_ratio = 3.0
     ```
 - __training.py__ and __testing.py__
-- 
+
     In each training.py and testing.py we must define the path of the OCR to be used throught the path_ocr:
  
     ```python
