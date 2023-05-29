@@ -52,7 +52,7 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
 
     # PKU-LR-HR
     def __init__(self, x_tensor, augmentation = True):
-    self.aspect_ratio = 3.0
+        self.aspect_ratio = 3.0
     ```
 - __training.py__ and __testing.py__
 
