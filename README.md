@@ -17,6 +17,7 @@ We generated LR versions of each HR image by simulating the effects of an optica
 
 <p>
 <img src="./Media/image2.png" width="600"/>
+  
 <em>image_caption</em>
 </p>
 <img src="./Media/image.png" width="600"/>  
