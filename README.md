@@ -36,5 +36,15 @@ Before using the code provided, not that the image size must be changed for the 
 IMG_LR = (40, 20)
 IMG_HR = (160, 80)
 ```
+ Also in the class customDataset the parameter self.aspect_ratio must reflect the desired aspect ration. In our work for the PKU and RodoSol dataset we used the values 3 and 2 respectively:
+ 
+```python
+# RosoSol-LR-HR
+def __init__(self, x_tensor, augmentation = True):
+    self.aspect_ratio = 2.0
 
+# PKU-LR-HR
+def __init__(self, x_tensor, augmentation = True):
+    self.aspect_ratio = 3.0
+```
 
