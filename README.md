@@ -35,8 +35,13 @@ And here are some examples of HR-LR image pairs created from the PKU dataset:
     Before using the code provided, not that the image size must be changed for the input LR and output SR/HR to the desired shape on the __dataset.py__ file after the imports in each     model folder.
 
     ```python
+    # RosoSol-LR-HR
     IMG_LR = (40, 20)
     IMG_HR = (160, 80)
+    
+    # PKU-LR-HR
+    IMG_LR = (48, 16)
+    IMG_HR = (192, 64)
     ```
     Also, in the class customDataset the parameter self.aspect_ratio must reflect the desired aspect ration. In our work for the PKU and RodoSol dataset we used the values 3.0 and 2.0     respectively:
  
