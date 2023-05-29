@@ -19,7 +19,7 @@ The PKU-LR-HR dataset comprises images categorized into five distinct groups, na
 Here are some representative examples of the PKU-LR-HR dataset:
 <img src="./Media/PKU_dataset.png" width="600"/>
 
-# LR-HR generation
+# Generation of LR-HR Pairs
 
 The HR images used in our experiments were generated as follows. For each image from the chosen datasets, we first cropped the LP region using the annotations provided by the authors. We then used the same annotations to rectify each LP image, making it more horizontal, tightly bounded, and easier to recognize. The rectified image serves as the HR image.
 
