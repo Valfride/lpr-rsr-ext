@@ -10,7 +10,7 @@ Here are some representative examples of the RodoSol-LR-HR dataset:
 
 # PKU-LR-HR Dataset
 
-The PKU-LR-HR dataset comprises images categorized into five distinct groups, namely G1 through G5, each representing a specific scenario. For instance, the images in G1 were captured on highways during the day and depict a single vehicle. On the other hand, the images in G5 were taken at crosswalk intersections, either during the day or night, and have multiple vehicles. All images were collected in mainland China. Despite the diverse settings, the \gls*{lp} images have good quality and are perfectly legible.
+The PKU-LR-HR dataset comprises images categorized into five distinct groups, namely G1 through G5, each representing a specific scenario. For instance, the images in G1 were captured on highways during the day and depict a single vehicle. On the other hand, the images in G5 were taken at crosswalk intersections, either during the day or night, and have multiple vehicles. All images were collected in mainland China. Despite the diverse settings, the LP images have good quality and are perfectly legible.
 
 Here are some representative examples of the PKU-LR-HR Dataset dataset:
 <img src="./Media/PKU_dataset.png" width="600"/>
