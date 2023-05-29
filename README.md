@@ -1,3 +1,7 @@
+# Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers
+
+We introduce a Single-Image Super-Resolution (SISR) approach that integrates attention and transformer modules to enhance the detection of structural and textural features in LR images. Our approach incorporates sub-pixel convolution layers (also known as PixelShuffle) and a loss function that uses an Optical Character Recognition (OCR) model for feature extraction. We trained the proposed architecture on synthetic images created by applying heavy Gaussian noise to high-resolution LP images from two public datasets, followed by bicubic downsampling. As a result, the generated images have a Structural Similarity Index Measure (SSIM) of less than 0.10. Our results show that our approach for reconstructing these low-resolution synthesized images outperforms existing ones in both quantitative and qualitative measures. Comprehensive details can be found in our [paper](https://doi.org/10.1016/j.cag.2023.05.005).
+
 # Rodosol-LR-HR Dataset
 
 
