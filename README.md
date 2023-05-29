@@ -24,7 +24,7 @@ The PKU-LR-HR dataset comprises images categorized into five distinct groups, na
 # LR-HR generation
 
 <p align="justify">
-The \gls*{hr} images used in our experiments were generated as follows. For each image from the chosen datasets, we first cropped the \gls*{lp} region using the annotations provided by the authors. Afterward, we used the same annotations to rectify each \gls*{lp} image so that it becomes more horizontal, tightly bounded, and easier to recognize. The rectified image is the \gls*{hr}~image.
+The HR images used in our experiments were generated as follows. For each image from the chosen datasets, we first cropped the LP region using the annotations provided by the authors. Afterward, we used the same annotations to rectify each LP image so that it becomes more horizontal, tightly bounded, and easier to recognize. The rectified image is the HR image.
 </p>
 
 <p align="justify">
