@@ -7,7 +7,7 @@ Among the 10,000 original images, there are 5,000 images of mercorsur and brazil
 
 <p align="center">
 <img src="./Media/RodoSol_dataset.png" width="600" alt />
-<em>image_caption</em>
+<figcaption>MDN Logo</figcaption>
 </p>
 
 # PKU-LR-HR Dataset
