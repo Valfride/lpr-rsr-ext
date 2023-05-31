@@ -63,7 +63,6 @@ In general, you will receive a download link within 3-5 business days. Failure t
 # Citation
 
 If you use our code or datasets in your research, please cite:
-
 * V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers,” in *Computers & Graphics*, vol. 113, pp. 69-76, 2023. [[Science Direct]](https://doi.org/10.1016/j.cag.2023.05.005) [[arXiv]](https://arxiv.org/abs/2305.17313)
 
 ```
@@ -80,6 +79,9 @@ If you use our code or datasets in your research, please cite:
   keywords = {License plate recognition, Super-resolution, Attention modules, Sub-pixel convolution layers}
 }
 ```
+
+You may also be interested in the conference version of this paper:
+* V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Combining Attention Module and Pixel Shuffle for License Plate Super-resolution,” in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 228-233, Oct. 2022. [[IEEE Xplore]](https://doi.org/10.1109/SIBGRAPI55357.2022.9991753) [[arXiv]](https://arxiv.org/abs/2210.16836)
 
 Additionally, consider showing your support by starring (:star:) this repository.
 
