@@ -14,6 +14,14 @@ Here are some HR-LR image pairs created from the [RodoSol-ALPR](https://github.c
 And here are some examples of HR-LR image pairs created from the [PKU](https://github.com/ofeeler/LPR) dataset:
 <img src="./Media/image.png" width="600"/>
 
+### How to obtain the RodoSol-SR and PKU-SR datasets
+
+As we are not the creators of the [RodoSol-ALPR](https://github.com/raysonlaroca/rodosol-alpr-dataset) and [PKU](https://github.com/ofeeler/LPR) datasets, we have decided to grant access to the images we have generated from these datasets upon request, subject to the signing of a licensing agreement. In essence, the RodoSol-SR and PKU-SR datasets are released for academic research only and are free to researchers from educational or research institutes for **non-commercial purposes**.
+
+To be able to download the datasets, please read [**this license agreement**](./pdfs/license-agreement.pdf) carefully, fill it out and send it back to the second author ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) (who also manages access to the [RodoSol-ALPR](https://github.com/raysonlaroca/rodosol-alpr-dataset) dataset). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
+
+In general, you will receive a download link within 3-5 business days. Failure to follow the instructions may result in no response.
+
 # Usage
 
 - \_\_dataset\_\_.py
