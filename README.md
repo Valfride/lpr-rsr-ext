@@ -80,7 +80,7 @@ If you use our code or datasets in your research, please cite:
 }
 ```
 
-You may also be interested in the conference version of this paper:
+You may also be interested in the [conference version](https://github.com/valfride/lpr-rsr/) of this paper:
 * V. Nascimento, R. Laroca, J. A. Lambert, W. R. Schwartz, D. Menotti, “Combining Attention Module and Pixel Shuffle for License Plate Super-resolution,” in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 228-233, Oct. 2022. [[IEEE Xplore]](https://doi.org/10.1109/SIBGRAPI55357.2022.9991753) [[arXiv]](https://arxiv.org/abs/2210.16836)
 
 Additionally, consider showing your support by starring (:star:) this repository.
