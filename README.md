@@ -54,10 +54,10 @@ In general, you will receive a download link within 3-5 business days. Failure t
  
     ```python
     # RosoSol-SR
-    path_ocr = Path('./saved_models/RODOSOL_ALPR')
+    path_ocr = Path('./saved_models/RodoSol-SR')
     
     # PKU-SR
-    path_ocr = Path('./saved_models/CHINESE_ALPR')
+    path_ocr = Path('./saved_models/PKU-SR')
     
 # Citation
 
