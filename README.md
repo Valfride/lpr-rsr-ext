@@ -26,7 +26,7 @@ In general, you will receive a download link within 3-5 business days. Failure t
 
 - \_\_dataset\_\_.py
 
-    Before using the code provided, not that the image size must be changed for the input LR and output SR/HR to the desired shape on the __dataset.py__ file after the imports:
+    Before using the code provided, not that the image size must be changed for the input LR and output SR/HR to the desired sCHINESE_ALPRhape on the __dataset.py__ file after the imports:
 
     ```python
     # RosoSol-SR
