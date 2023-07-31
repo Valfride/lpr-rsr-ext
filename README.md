@@ -50,14 +50,14 @@ In general, you will receive a download link within 3-5 business days. Failure t
     ```
 - __training.py__ and __testing.py__
 
-    In each training.py and testing.py files we must define the path of the OCR to be used throught the path_ocr:
+    In each training.py and testing.py files we must define the path of the OCR to be used (follow the link in #pre-trained-ocr-model):
  
     ```python
     # RosoSol-SR
-    path_ocr = Path('2023-02-02-exp-016-br-paper-valfride-cg-ocr-goncalves2018realtime-original-120-60-adam-batch64-pat7')
+    path_ocr = Path('./saved_models/RODOSOL_ALPR')
     
     # PKU-SR
-    path_ocr = Path('2023-02-06-exp-019-cn-paper-valfride-cg-ocr-goncalves2018realtime-original-120-40-adam-batch64-pat7')
+    path_ocr = Path('./saved_models/CHINESE_ALPR')
     ```
 # Pre-trained OCR Model
 https://github.com/Valfride/lpr-rsr-ext/releases/tag/OCR_pre-trained_models
