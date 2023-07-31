@@ -59,7 +59,8 @@ In general, you will receive a download link within 3-5 business days. Failure t
     # PKU-SR
     path_ocr = Path('2023-02-06-exp-019-cn-paper-valfride-cg-ocr-goncalves2018realtime-original-120-40-adam-batch64-pat7')
     ```
-    
+# Pre-traied OCR link
+https://github.com/Valfride/lpr-rsr-ext/releases/tag/OCR_pre-trained_models
 # Citation
 
 If you use our code or datasets in your research, please cite:
