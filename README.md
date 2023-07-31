@@ -50,7 +50,7 @@ In general, you will receive a download link within 3-5 business days. Failure t
     ```
 - __training.py__ and __testing.py__
 
-    In each training.py and testing.py files we must define the path of the OCR to be used (follow the link in #pre-trained-ocr-model):
+    In each training.py and testing.py files we must define the path of the OCR to be used (download the pre-trained OCRs (here)[https://github.com/Valfride/lpr-rsr-ext/releases/tag/OCR_pre-trained_models]):
  
     ```python
     # RosoSol-SR
@@ -58,10 +58,7 @@ In general, you will receive a download link within 3-5 business days. Failure t
     
     # PKU-SR
     path_ocr = Path('./saved_models/CHINESE_ALPR')
-    ```
-# Pre-trained OCR Model
-https://github.com/Valfride/lpr-rsr-ext/releases/tag/OCR_pre-trained_models
-
+    
 # Citation
 
 If you use our code or datasets in your research, please cite:
